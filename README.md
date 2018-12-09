@@ -19,7 +19,7 @@ git clone https://github.com/AnnaVih/ReactYouTubeSearcher.git
 ```
 Then to update :
 ```bash
-cd ReactYouTubeSearcher
+cd ReactYouTubeSearcher-master
 git pull
 ```
 
